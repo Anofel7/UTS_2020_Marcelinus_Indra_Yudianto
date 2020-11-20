@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "666840684205",
+    "firebase_url": "https://uts-marcelinus-indra-yudianto.firebaseio.com",
+    "project_id": "uts-marcelinus-indra-yudianto",
+    "storage_bucket": "uts-marcelinus-indra-yudianto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666840684205:android:eb5af1525f843f0b825824",
+        "android_client_info": {
+          "package_name": "ac.id.atmaluhur.uts_amub_ti7a_1711500010_marcelinus_indra_yudianto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666840684205-7hfpq0e3p8maeorabl3rkomlkdnnp8ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm-QFlJRzYeBqLUK6o2VS17PWtPKxizuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666840684205-7hfpq0e3p8maeorabl3rkomlkdnnp8ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
